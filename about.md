@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software developer in Kjipuktuk/Halifax, Nova Scotia.
 
-### More Information
+### Resume
 
-A place to include any other types of information that you'd like to include about yourself.
+[benmacleod.com](https://www.benmacleod.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ben@bitswamp.com](mailto:ben@bitswamp.com)
