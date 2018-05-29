@@ -4,14 +4,11 @@ title: To do
 ---
 
 Gardening
-- peppers in starter tray
 - basil
 - feathery dill
 - more green onions, mint, and rosemary
-- separate aloe
 - bonsai
 - vertical gardening
-- moss
 
 Sewing
 - tailor short sleeve blue shirt
@@ -28,5 +25,3 @@ House
 Languages
 - italian
 - french
-
-
