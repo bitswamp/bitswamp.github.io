@@ -10,6 +10,6 @@ Software developer in Kjipuktuk/Halifax, Nova Scotia.
 
 [benmacleod.com](https://www.benmacleod.com)
 
-### Contact me
+### Email
 
 [ben@bitswamp.com](mailto:ben@bitswamp.com)
