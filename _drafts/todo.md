@@ -18,7 +18,6 @@ Sewing
 
 House
 - take leaves off spare table
-- replace shower curtain
 - put the glass back on the light out back
 - glue down the flooring
 
