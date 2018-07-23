@@ -28,7 +28,10 @@ title: Refurbishing an Acer 6011 (Alps SKCM White switches)
 
 
 ### References:
-- 
+- [https://deskthority.net/keyboards-f2/lubing-alps-switch-stems-t16849.html](https://deskthority.net/keyboards-f2/lubing-alps-switch-stems-t16849.html)
+- [https://deskthority.net/keyboards-f2/smooth-alps-t13534.html](https://deskthority.net/keyboards-f2/smooth-alps-t13534.html)
+- [https://www.youtube.com/watch?v=1Mhmb2kBuwQ](https://www.youtube.com/watch?v=1Mhmb2kBuwQ)
+- [https://www.youtube.com/watch?v=PLgQvmF3zOk](https://www.youtube.com/watch?v=PLgQvmF3zOk)
 
 
 ### Preamble:
@@ -90,7 +93,7 @@ Now the pieces are all clean and you can start to reassmble your keyboard.
 
 ### Reassembling Alps switches:
 
-When using (other guy)'s method as shown here, I struggled to get the spring and click leaf to slide into the right place. I found it easier to do it this way:
+When using Chyrosran22's method as shown [here](https://www.youtube.com/watch?v=1Mhmb2kBuwQ&t=8m10s), I struggled to get the spring and click leaf to slide into the right place. I found it easier to do it this way:
 
 - Put the slider in the top housing (make sure the slider divot faces away from the alps logo).
 - Put the click leaf in the top housing (click leaf goes on the side that has the alps logo).
@@ -114,4 +117,8 @@ When using (other guy)'s method as shown here, I struggled to get the spring and
 
   Double check that the top housing and the slider are in the right orientation (alps logo away from contact leaf, slider divot away from alps logo). I made this mistake 3 or 4 times when reassembling the switches on the 6011.
 
-### 
+### Outcome
+
+The switches are greatly improved and are very usable, but they are still obviously used. The springs and click leaves are inconsistent and there's not much to do except replace them. But the board now feels good enough to use as a daily driver.
+
+I damaged one switch (.) which had been marginal to begin with. I desoldered that switch and the Scroll Lock switch and swapped them. Eventually I will replace the scroll lock switch with a Matias/Fuhua clone switch.
