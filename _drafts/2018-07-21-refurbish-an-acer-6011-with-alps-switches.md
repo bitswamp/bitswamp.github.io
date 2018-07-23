@@ -85,19 +85,22 @@ Spray the aerosol lube over the sliders, wait a minute for the spray to dry, the
 
 Put the springs and click leaves in a strainer or cheesecloth pouch and gently spray them with compressed air to remove any loose dust. 
 
+Now the pieces are all clean and you can start to reassmble your keyboard.
+
 
 ### Reassembling Alps switches:
 
-Instead of (other guy)'s method, do:
+When using (other guy)'s method as shown here, I struggled to get the spring and click leaf to slide into the right place. I found it easier to do it this way:
 
-- Put the slider in the top housing (make sure the slider divot faces away from the alps logo)
-- Put the click leaf in the top housing (click leaf goes on the side that has the alps logo)
-- Position the spring in the bottom housing over the bottom nub, leaning away from the contact leaf
-- Use the top half of the key to 'scoop' the spring towards the contact leaf.
+- Put the slider in the top housing (make sure the slider divot faces away from the alps logo).
+- Put the click leaf in the top housing (click leaf goes on the side that has the alps logo).
+- Position the spring in the bottom housing over the bottom nub, leaning away from the contact leaf.
+- If the spring stands straight up, position the top assembly over the spring and press down.
+- If the spring is leaning on the bottom housing, use the top half of the key to 'scoop' the spring towards the contact leaf.
 - If the spring stays correctly seated, the slider should pop up with a 'clink' as you push down.
 
 
-Most common problems:
+### Most common problems:
 
 - No click:
 
@@ -110,3 +113,5 @@ Most common problems:
 - Key still feels wrong, even after reassembling:
 
   Double check that the top housing and the slider are in the right orientation (alps logo away from contact leaf, slider divot away from alps logo). I made this mistake 3 or 4 times when reassembling the switches on the 6011.
+
+### 
