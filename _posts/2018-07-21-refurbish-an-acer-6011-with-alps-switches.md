@@ -3,7 +3,9 @@ layout: post
 title: Refurbishing an Acer 6011 (Alps SKCM White switches)
 ---
 
-### Necessary equipment:
+Refurbishing a filthy and heavily used Acer 6011 mechanical keyboard.
+
+### Necessary equipment
 
 - screwdrivers
   - philips (for opening keyboard)
@@ -18,7 +20,7 @@ title: Refurbishing an Acer 6011 (Alps SKCM White switches)
 - paper towel
 - rubber gloves
 
-### Nice to have:
+### Nice to have
 
 - q-tips
 - cheap paintbrush
@@ -27,26 +29,26 @@ title: Refurbishing an Acer 6011 (Alps SKCM White switches)
 - needle-nose pliers
 
 
-### References:
+### References
 - [https://deskthority.net/keyboards-f2/lubing-alps-switch-stems-t16849.html](https://deskthority.net/keyboards-f2/lubing-alps-switch-stems-t16849.html)
 - [https://deskthority.net/keyboards-f2/smooth-alps-t13534.html](https://deskthority.net/keyboards-f2/smooth-alps-t13534.html)
 - [https://www.youtube.com/watch?v=1Mhmb2kBuwQ](https://www.youtube.com/watch?v=1Mhmb2kBuwQ)
 - [https://www.youtube.com/watch?v=PLgQvmF3zOk](https://www.youtube.com/watch?v=PLgQvmF3zOk)
 
 
-### Preamble:
+### Preamble
 
 I bought a used Acer 6011 on ebay for about $30 plus shipping and thought I got a deal. The keyboard was obviously used and dirty, but I have bought IBM keyboards that were filthy, but still worked fine mechanically, and cleaned up nicely. I didn't realize how easily Alps switches are contaminated with dirt by comparison.
 
 This board was obviously heavily used by multiple people. In addition to caked on dirt, crumbs, and lots of hair, it included several (dead) spiders. One of the spacebar stabilizers was missing, but I found it stuck inside another keycap in a little silk cocoon.
 
 
-### Recommendation:
+### Recommendation
 
 Don't do this. Buy a new/new-old-stock board with clean Alps or clone switches, unless you have a lot more time and patience than money.
 
 
-### General advice:
+### General advice
 
 Start by plugging the board in as-is and checking if all the keys work. In my case, some keys were unresponsive: 7, E, G and H.
 
@@ -55,7 +57,7 @@ When opening a dirty keyboard, do it outside. Use a cloth/tarp so you don't lose
 Never leave loose key parts sitting out (caps, housing, sliders, springs). Always put them in a box/jar/tray. I like jam jars because I can put big pieces in the jar and small springs, screws etc in the lid.
 
 
-### Cleaning keycaps:
+### Cleaning keycaps
 
 Use a flat head screwdriver to help lever the keycaps off. Always pry Alps from the side to avoid breaking the stems off in the switch. Note the numpad + and Enter have the switches turned sideways (so go from the top/bottom). I think some Apple boards have the f-keys sideways too.
 
@@ -66,7 +68,7 @@ Once all the keycaps are off, put them in a large jar with 3 denture tabs and fi
 If there are stubborn markings on the sides of the caps, try scrubbing with a magic eraser.
 
 
-### Disassembling and cleaning Alps switches:
+### Disassembling and cleaning Alps switches
 
 Use a small (electronics) flat head screwdriver to pry open the top tab holding the top housing in. Grip the top of the slider with your fingertips (the slider has ridges). Pry open the bottom tab and pull the top assembly out.
 
@@ -91,7 +93,7 @@ Put the springs and click leaves in a strainer or cheesecloth pouch and gently s
 Now the pieces are all clean and you can start to reassmble your keyboard.
 
 
-### Reassembling Alps switches:
+### Reassembling Alps switches
 
 When using Chyrosran22's method as shown [here](https://www.youtube.com/watch?v=1Mhmb2kBuwQ&t=8m10s), I struggled to get the spring and click leaf to slide into the right place. I found it easier to do it this way:
 
@@ -103,7 +105,7 @@ When using Chyrosran22's method as shown [here](https://www.youtube.com/watch?v=
 - If the spring stays correctly seated, the slider should pop up with a 'clink' as you push down.
 
 
-### Most common problems:
+### Most common problems
 
 - No click:
 
