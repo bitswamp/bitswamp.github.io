@@ -40,12 +40,12 @@ Refurbishing a filthy and heavily used Acer 6011 mechanical keyboard.
 
 I bought a used Acer 6011 on ebay for about $30 plus shipping and thought I got a deal. The keyboard was obviously used and dirty, but I have bought IBM keyboards that were filthy, but still worked fine mechanically, and cleaned up nicely. I didn't realize how easily Alps switches are contaminated with dirt by comparison.
 
-This board was obviously heavily used by multiple people. In addition to caked on dirt, crumbs, and lots of hair, it included several (dead) spiders. One of the spacebar stabilizers was missing, but I found it stuck inside another keycap in a little silk cocoon.
+A "Press Fx to print" label hinted that this board had been used in a shared space. In addition to caked on dirt, crumbs, and lots of hair, it included several (dead) spiders. One of the spacebar stabilizers was missing, but I found it stuck inside another keycap in a little silk cocoon.
 
 
 ### Recommendation
 
-Don't do this. Buy a new/new-old-stock board with clean Alps or clone switches, unless you have a lot more time and patience than money.
+Don't do this. Buy a new/new-old-stock board with clean Alps or clone switches, unless you have more time/patience than money.
 
 
 ### General advice
@@ -59,7 +59,7 @@ Never leave loose key parts sitting out (caps, housing, sliders, springs). Alway
 
 ### Cleaning keycaps
 
-Use a flat head screwdriver to help lever the keycaps off. Always pry Alps from the side to avoid breaking the stems off in the switch. Note the numpad + and Enter have the switches turned sideways (so go from the top/bottom). I think some Apple boards have the f-keys sideways too.
+Use a flat head screwdriver to help lever the keycaps off. Always pry Alps from the side to avoid breaking the stems off in the switch. Note the numpad + and Enter have the switches turned sideways (so go from the top/bottom). Some Apple boards have the f-keys sideways too.
 
 The stabilizers can be popped out of their clips using the screwdriver tip too. I usually leave the stabilizers attached to the caps whenever I can, to avoid losing parts.
 
@@ -95,7 +95,7 @@ Now the pieces are all clean and you can start to reassmble your keyboard.
 
 ### Reassembling Alps switches
 
-When using Chyrosran22's method as shown [here](https://www.youtube.com/watch?v=1Mhmb2kBuwQ&t=8m10s), I struggled to get the spring and click leaf to slide into the right place. I found it easier to do it this way:
+When using Chyros's method as shown [here](https://www.youtube.com/watch?v=1Mhmb2kBuwQ&t=8m10s), I struggled to get the spring and click leaf to slide into the right place. I found it easier to do it this way:
 
 - Put the slider in the top housing (make sure the slider divot faces away from the alps logo).
 - Put the click leaf in the top housing (click leaf goes on the side that has the alps logo).
