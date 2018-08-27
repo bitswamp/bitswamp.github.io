@@ -5,6 +5,7 @@ title: Refurbishing an Acer 6011 (Alps SKCM White switches)
 
 Refurbishing a filthy and heavily used Acer 6011 mechanical keyboard.
 
+
 ### Necessary equipment
 
 - screwdrivers
@@ -19,6 +20,7 @@ Refurbishing a filthy and heavily used Acer 6011 mechanical keyboard.
 - containers for parts (mason jars and lids)
 - paper towel
 - rubber gloves
+
 
 ### Nice to have
 
