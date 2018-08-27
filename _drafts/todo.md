@@ -29,10 +29,10 @@ House
 
 Keyboards
 - pingmaster 
-  - wait for teensy/promicro
+  - -wait for teensy/promicro-
   - get usb cable
   - -find a compatible socket for cable (floppy power cable end?)-
-  - solder converter and install
+  - -solder converter and install-
 - custom alps tkl
   - -buy basswood (6" sheet and 1" stick?)-
   - saw and sand top plate
