@@ -15,5 +15,16 @@ title: Custom Alps TKL keyboard build log
 * Cut frame out of 2x8 (2x10?) board to fit plate
 * Mounted plate to temporary cedar pieces
 * Fit switches into plate
-* Cut out interior of frame with coping saw
+* Cut out interior of pine frame with coping saw
 * Removed switches from plate and moved plate to the pine frame
+
+* Used rasp to size the pine frame right for the plate(s)
+* Bought basswood sheets ($30 CAD - Jul 2018)
+* Cut basswood sheets to length and glued two 1/8" sheets together with an offset
+* Drilled screw holes
+  * Split sides of basswood due to drilling too close
+* Measured plate with some test fit switches and transferred measurements to basswood
+* Cut the slots out of the basswood (rotary tool with cutting disks)
+  * Split the sides of the basswood when trying to chisel out the holes
+  * Rotary tool needed replacement chuck
+* Cut adjustments for the stabilizers into plastic plate (rotary tool with HSS bit)
