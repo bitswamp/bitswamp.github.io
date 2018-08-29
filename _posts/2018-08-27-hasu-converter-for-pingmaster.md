@@ -7,6 +7,8 @@ Building a reversible, internal USB converter for the IBM 6113442 "Pingmaster" w
 
 ![](/assets/images/20180829/ibm_pingmaster_keyboard.jpg)
 
+![](/assets/images/20180829/hasu_converter_for_pingmaster.jpg)
+
 ### Necessary equipment
 
 - teensy 2.0 (or pro micro)
