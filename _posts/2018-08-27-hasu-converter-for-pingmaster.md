@@ -5,6 +5,7 @@ title: Internal Hasu's converter for IBM 6113442 keyboard
 
 Building a reversible, internal USB converter for the IBM 6113442 "Pingmaster" with a Teensy 2.0 and Hasu's TMK firmware.
 
+![](/assets/images/20180829/ibm_pingmaster_keyboard.jpg)
 
 ### Necessary equipment
 
