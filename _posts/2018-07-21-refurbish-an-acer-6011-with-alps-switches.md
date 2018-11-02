@@ -124,7 +124,7 @@ When using Chyros's method as shown [here](https://www.youtube.com/watch?v=1Mhmb
 
 ### Outcome
 
-The switches are greatly improved and are very usable, but they are still obviously used. The springs and click leaves are inconsistent and there's not much to do except replace them. But the board now feels good enough to use as a daily driver.
+The switches are greatly improved and are very usable, but they are still obviously used. The springs and click leaves are inconsistent and there's not much to do except replace them. But the board now feels acceptable to use every day. 
 
 I damaged one switch (.) which had been marginal to begin with. I desoldered that switch and the Scroll Lock switch and swapped them. Eventually I will replace the scroll lock switch with a Matias/Fuhua clone switch.
 
@@ -133,3 +133,7 @@ I damaged one switch (.) which had been marginal to begin with. I desoldered tha
 When I took this keyboard back out of the box to use it in Oct 2018, the G and H keys no longer registered easily. I took the opportunity to replace the G, H and previously broken Scroll Lock keys with blue clicky Taihao APC blue alps clones. I disassembled the keyboard, desoldered the old switches, soldered in the new ones.
 
 On the unmodified APC switches, the keycaps sit slightly higher (maybe 0.5mm). It's not dramatic but you can see it clearly if you're looking.
+
+As some other people have noticed, the APC switches only click sometimes -- the click leaf appears to get stuck or bent. 
+
+The backspace switch (original) seems to have lost its click too. Next step may be to replace the APC switches and any other problem switches with click-modded SKCM Blacks from a Dell keyboard.
