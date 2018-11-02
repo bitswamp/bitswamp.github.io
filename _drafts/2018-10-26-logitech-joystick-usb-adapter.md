@@ -10,7 +10,9 @@ After losing the original gameport-to-usb adapter for my Logitech joystick, I tr
 * [https://sites.google.com/site/joystickrehab/itemcatal](https://sites.google.com/site/joystickrehab/itemcatal)
 * [https://www.vogons.org/viewtopic.php?f=5&t=38555](https://www.vogons.org/viewtopic.php?f=5&t=38555)
 * [https://www.descentbb.net/viewtopic.php?t=14791](https://www.descentbb.net/viewtopic.php?t=14791)
+* disassembly video [https://vimeo.com/90620762](https://vimeo.com/90620762)
 * [https://support.logitech.com/en_us/product/extreme-digital-3d/downloads](https://support.logitech.com/en_us/product/extreme-digital-3d/downloads)
+* [https://www.softpedia.com/get/System/System-Miscellaneous/Joystick-Tester.shtml](https://www.softpedia.com/get/System/System-Miscellaneous/Joystick-Tester.shtml)
 
 ### Preamble
 
@@ -36,11 +38,21 @@ Buying the Belkin adapter (advertised as for a Sidewinder) ought to work, accord
 
 ### External or internal conversion
 
-If I had a gameport cable in one of my project boxes, I likely would have built an external adapter to replace the original. Since I didn't, I decided to replace the built in gameport cable with a USB cable.
+If I had a gameport cable with the right end on hand, I likely would have built an external adapter to replace the original. Since I didn't, I decided to replace the built in gameport cable with a USB cable.
 
 ### Disassembling the joystick
 
-1 video and 1 forum link?
+This video shows how the pieces come apart: [https://vimeo.com/90620762](https://vimeo.com/90620762)
+
+Flip the joystick over and remove the 5 or so screws from the base. Turn it back right side up.
+
+Disassemble the joystick starting with the 4 screws in the handle (2 are at the bottom behind the rubber sleeve). Undo the plastic latch on the bottom of the shelf for your hand and you should be able to gently separate the 2 halves of the joystick's handle. The trigger and 2 of the top buttons will come out. 
+
+You do not need to disconnect or disassemble the bit containing the hat and the other thumb buttons.
+
+Use gentle prying with a flathead screwdriver to pop up the ring that sits over the throttle. The hex screws on this plastic ring are decorative and they don't screw out. Once this is up, the throttle and the rubber sleeve will sit loosely and can be moved around.
+
+Now you can lift and pry the base of the joystick apart and gain access to the gameport cable connector. The socketed cable can easily be removed from the PCB.
 
 ### Replacing the cable
 
@@ -52,8 +64,18 @@ The 8th socket in the white connector does not need to be populated with anythin
 
 ### Reassembling the joystick
 
-keeping the buttons in the handle, keeping the rudder spring in place, making sure the throttle is in the right place, 
+Reverse of disassembly. Reassemble the base, making sure the USB cable is in the right spot. Make sure the cutouts on the bottom of the rubber gasket are aligned properly.
+
+Check that the throttle arm is hooked over the plastic pin (attached to the sensor) as it was originally. Make sure the throttle thumb pad is between the two plastic tabs on the ring that limit its motion to the correct range. Snap the retaining ring down over the throttle and rubber sleeve.
+
+There is a wire spring around the central shaft that should be rotated and pushed down until it goes over the plastic supports and is held firm. There is a removable, curved plastic peg which goes between the two parts of the handle near the bottom of the shaft. There is a cutout in the white shaft and the curve of the peg should fit into the cutout. If the spring and plastic peg aren't in the right place, the twist rudder won't feel right.
+
+I did not disassemble the top piece with hat and buttons 4-5, so I just checked that the cable was still attached and pushed the assembly into one of the joystick handle halves. 
+
+I found it easiest to keep the two thumb buttons and trigger in the other half of the joystick handle by tipping the whole assembly on its side. Then I snapped the two joystick halves together, while keeping the whole joystick sideways so gravity kept buttons 2-3 in place.
 
 ### Results
 
-detected by windows, joystick tester, logitech drivers
+After plugging in the USB cable, the joystick was automatically detected by Windows. I downloaded Joystick Tester from [https://www.softpedia.com/get/System/System-Miscellaneous/Joystick-Tester.shtml](https://www.softpedia.com/get/System/System-Miscellaneous/Joystick-Tester.shtml) and tested that all buttons and axes worked. There is a web alternative available at [http://html5gamepad.com/](http://html5gamepad.com/) but I didn't end up using it. I downloaded and installed the drivers from Logitech's site (labeled for Vista, they installed fine on Win10). It's possible I could have gotten away without these extra drivers.
+
+I launched [TIE Fighter (1995 Collector's Edition from GOG)](https://www.gog.com/game/star_wars_tie_fighter_special_edition) where it prompted me to calibrate the joystick and then worked wonderfully.
