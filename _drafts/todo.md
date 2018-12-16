@@ -18,28 +18,28 @@ Sewing
 
 House
 - -take leaves off spare table-
-  - replace with ikea cabinet
-  - block off the vent
-  - level the doors
+  - -replace with ikea cabinet-
+  - -block off the vent-
+  - -level the doors-
 - put the glass back on the light out back
   - needs metal plates
 - glue down the flooring
-- level bedroom closet door
+- -level bedroom closet door-
 - hang rothko
 
 Keyboards
-- pingmaster 
+- -pingmaster-
   - -wait for teensy/promicro-
-  - get usb cable
+  - -get usb cable-
   - -find a compatible socket for cable (floppy power cable end?)-
   - -solder converter and install-
 - custom alps tkl
   - -buy basswood (6" sheet and 1" stick?)-
   - saw and sand top plate
-  - add screws to sides of base
+  - -add screws to sides of base-
   - oil wood
-  - dremel out plate to accommodate stabilizer clips
-  - test install stabilizers
+  - -dremel out plate to accommodate stabilizer clips-
+  - -test install stabilizers-
   - install and wire switches
   - test with breadboard
   - install and glue usb port
