@@ -56,9 +56,9 @@ Now you can lift and pry the base of the joystick apart and gain access to the g
 
 ### Replacing the cable
 
-I had a Logitech USB mouse in my box of electronics-to-be-recycled. I opened it and removed the USB cable. Conveniently, its cable colours matched the internal end of the existing gameport cable (black - shield, black - ground, red, white, green). I removed each wire of both cables from its white plastic connector/terminator. Then I inserted the five wires of the mouse cable into the 8-pin connector end from the joystick in the same order as the original cable by colour..
+I had a Logitech USB mouse in my box of electronics-to-be-recycled. I opened it and removed the USB cable. Conveniently, its cable colours matched the internal end of the existing gameport cable (black - shield, black - ground, red, white, green). I removed each wire of both cables from its white plastic connector/terminator. Then I inserted the five wires of the mouse cable into the 8-pin connector end from the joystick in the same order as the original cable by colour.
 
-In order to short pins 2 and 7, I found another cable with a similar connector -- attached to a small fan I didn't intend to use -- removed 2 wires from it, stripped and soldered the wire ends together, and inserted the other ends in positions 6 and 7 in the 8-pin connector.
+In order to "short pins 2 and 7" (from the perspective of the gameport end of the cable, shorting these pins is what tells it it's in usb mode), I found another cable with a similar connector -- attached to a small fan I didn't intend to use -- removed 2 wires from it, stripped and soldered the wire ends together, and inserted the other ends in positions 6 and 7 in the 8-pin connector. In other words, pins 2 and 7 on the gameport end correspond to pins 6 and 7 of the internal connector.
 
 The 8th socket in the white connector does not need to be populated with anything, even though it was attached to the gray wire in the original gameport cable.
 
