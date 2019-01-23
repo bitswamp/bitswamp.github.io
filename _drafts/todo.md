@@ -35,15 +35,15 @@ Keyboards
   - -solder converter and install-
 - custom alps tkl
   - -buy basswood (6" sheet and 1" stick?)-
-  - saw and sand top plate
+  - -saw- and sand top plate
   - -add screws to sides of base-
   - oil wood
   - -dremel out plate to accommodate stabilizer clips-
   - -test install stabilizers-
-  - install and wire switches
+  - -install and wire switches-
   - test with breadboard
-  - install and glue usb port
-  - install and solder teensy
+  - -install- and glue usb port
+  - -install and solder teensy-
 - tray keyboard
   - -drill holes for slide rail-
   - -measure and mount rails on wood-
