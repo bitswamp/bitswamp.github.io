@@ -3,7 +3,7 @@ layout: post
 title: Refurbishing an Acer 6011 (Alps SKCM White switches)
 ---
 
-Refurbishing a filthy and heavily used Acer 6011 mechanical keyboard.
+Refurbishing a heavily used Acer 6011 mechanical keyboard.
 
 ![](/assets/images/20180829/acer_6011_keyboard.jpg)
 
@@ -43,7 +43,7 @@ Refurbishing a filthy and heavily used Acer 6011 mechanical keyboard.
 
 I bought a used Acer 6011 on ebay for about $30 plus shipping and thought I got a deal. The keyboard was obviously used and dirty, but I have bought IBM keyboards that were filthy, but still worked fine mechanically, and cleaned up nicely. I didn't realize how easily Alps switches are contaminated with dirt by comparison.
 
-A "Press Fx to print" label hinted that this board had been used in a shared space. In addition to caked on dirt, crumbs, and lots of hair, it included several (dead) spiders. One of the spacebar stabilizers was missing, but I found it stuck inside another keycap in a little silk cocoon.
+A label "LPT1 to print" hinted that this board had been used in a shared space. In addition to dirt/crumbs/hair, it included several dead spiders. One of the spacebar stabilizers was missing, but I found it stuck inside another keycap in a little silk cocoon.
 
 
 ### Recommendation
@@ -62,13 +62,13 @@ Never leave loose key parts sitting out (caps, housing, sliders, springs). Alway
 
 ### Cleaning keycaps
 
-Use a flat head screwdriver to help lever the keycaps off. Always pry Alps from the side to avoid breaking the stems off in the switch. Note the numpad + and Enter have the switches turned sideways (so go from the top/bottom). Some Apple boards have the f-keys sideways too.
+Use a flat head screwdriver to help lever the keycaps off. I pry Alps keycaps off from the side to avoid breaking the stems off in the switch. Note the numpad + and Enter have the switches turned sideways (so go from the top/bottom). Some Apple boards have the f-keys sideways too.
 
 The stabilizers can be popped out of their clips using the screwdriver tip too. I usually leave the stabilizers attached to the caps whenever I can, to avoid losing parts.
 
 Once all the keycaps are off, put them in a large jar with 3 denture tabs and fill with hot (not boiling) water. Wait about 10-20 minutes then drain, rinse with water, and spread out on a piece of paper towel to try. Leave to dry overnight.
 
-If there are stubborn markings on the sides of the caps, try scrubbing with a magic eraser.
+If there are stubborn markings on the sides of the caps, try scrubbing with a magic eraser (mildly abrasive -- don't use on pad printed or textured surfaces).
 
 
 ### Disassembling and cleaning Alps switches
