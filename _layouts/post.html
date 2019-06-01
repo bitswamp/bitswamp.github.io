@@ -3,9 +3,11 @@ layout: default
 ---
 
 <article class="post">
+  {% if page.image %}
   <div class="header-image">
     <img src="{{src.url}}/{{page.image}}" alt="{{page.image_description}}" />
   </div>
+  {% endif %}
   
   <h1>{{ page.title }}</h1>
 
