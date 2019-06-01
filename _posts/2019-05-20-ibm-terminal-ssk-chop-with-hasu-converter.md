@@ -7,12 +7,25 @@ This is a placeholder post until I can add images.
 
 converting a 103-key terminal model m to a "fake ssk"
 
+references:
+- https://geekhack.org/index.php?topic=27272.0
+- https://deskthority.net/viewtopic.php?t=21198
+- https://scrausch.blogspot.com/2015/01/making-model-m-ssk.html
+- https://www.reddit.com/r/MechanicalKeyboards/comments/2ds4wv/cleaned_and_converted_a_terminal_model_m_into_usb/
+- https://www.reddit.com/r/MechanicalKeyboards/comments/2mca1p/model_m_restoration_rust_removal_plastidip/
+- https://freematics.com/pages/software/arduino-builder/
+
+tools
+- https://www.amazon.ca/gp/product/B00093GEJO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+- http://www.leevalley.com/en/wood/page.aspx?p=58686&cat=1,42884
+- https://www.canadiantire.ca/en/pdp/j-b-weld-clear-weld-epoxy-syringe-25-ml-0383803p.html#srp
+
 cutting down the case:
 - remove the keycaps and unscrew the case screws
 - measure and cut top case along each side of numpad
 - measure and cut bottom case keeping flip foot and support rib (cut goes through rubber front foot hole; make sure the cut is the same width as the top plate)
 - check pieces for fit
-- sand, glue and clamp (used jb quickweld epoxy)
+- sand, glue and clamp (used jb clear-weld epoxy)
 - cut the 4th screw bracket from the junk section of top case
 - glue screw bracket to new top case
 - check top and bottom case for fit and alignment of screw holes
@@ -23,7 +36,7 @@ cutting down the case:
 cutting the backplate and barrel plate:
 - remove the rivets from the backplate and separate the pieces
 - take a photo of the hammer positions
-- remove the hammers and 
+- remove the hammers and put them in a jar
 - glue ribs of the barrel plate if they're cracking
 - cut the steel backplate with a dremel
 - cut the plastic barrel plate with a saw
@@ -45,9 +58,9 @@ compiling the tmk converter:
 - add freematics avr folder (containing avr-gcc.exe) to path if needed
 - cd tmk_keyboard/converter/terminal_usb
 - `make`
-- open freematics arduino builder
 
 use teensy loader for teensy, use arduino builder for pro micro and follow steps:
+- open freematics arduino builder
 - load the .hex file
 - plug in the pro micro
 - click COM1
