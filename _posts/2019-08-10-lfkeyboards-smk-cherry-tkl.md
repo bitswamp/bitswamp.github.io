@@ -3,11 +3,13 @@ layout: post
 title: LFKeyboards SMK-TKL with SMK Cherry MX-mount switches
 ---
 
+Reviving vintage SMK keyboard switches with a modern PCB and form factor (sketch notes for now). 
+
 ### Parts
 
 * LFKeyboards SMK-TKL pcb
 * (optional) usb-c connector board
-* 87 SMK gen 2 Cherry MX mount switches
+* 87 SMK gen 2 Cherry MX mount switches (from Taobao or Aliexpress)
 * Cooler Master Masterkeys S PBT donor board (equivalent to CM Storm Quickfire Rapid)
 * Costar stabilizer set with 180-degree wire bends
 

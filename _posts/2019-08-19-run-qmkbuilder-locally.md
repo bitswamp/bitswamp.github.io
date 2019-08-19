@@ -3,13 +3,19 @@ layout: post
 title: Run QMK Keyboard Firmware Builder locally with Docker
 ---
 
+Run a copy of https://kbfirmware.com locally in Docker containers with minimal config required.
+
+### Background
+
 The other day I was getting an error trying to download .hex files from https://kbfirmware.com (it's fine now).
 
 I'd been meaning to set up a copy on my computer, because I want to try some changes to the default wiring method.
 
 The original source https://github.com/ruiqimao/qmkbuilder is easy enough for a developer to use, but the setup still involves a few steps.
 
-So I created a Dockerfile and a compose file at https://github.com/bitswamp/qmkbuilder-docker to automate it. Now you can run your own copy like:
+### The project
+
+I created a Dockerfile and a compose file at https://github.com/bitswamp/qmkbuilder-docker to automate it. Now you can run your own copy like:
 
 * Install [Docker](https://www.docker.com/get-started)
 * Download or clone https://github.com/bitswamp/qmkbuilder-docker
