@@ -1,0 +1,14 @@
+{% if include.gallery %}
+<div id="{{include.id}}" class="m-p-g image-gallery">
+    <div class="m-p-g__thumbs" data-google-image-layout data-max-height="400">
+    {% for image in include.gallery.images %}
+        <img class="m-p-g__thumbs-img" alt="{{image.caption}}" src="{{include.gallery.folder}}/{{image.image}}" data-full="{{include.gallery.folder}}/{{image.image}}" />
+    {% endfor %}
+    </div>
+    <div class="m-p-g__fullscreen"></div>
+</div>
+<script>
+    var galleries = galleries || []
+    galleries.push(new MaterialPhotoGallery(document.querySelector('#{{include.id}}')))
+</script>
+{% endif %}

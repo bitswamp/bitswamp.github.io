@@ -79,6 +79,9 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
+  - .env
+  - Dockerfile
+  - docker-compose.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE
@@ -90,3 +93,5 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+host: 0.0.0.0

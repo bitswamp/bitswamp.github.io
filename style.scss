@@ -68,6 +68,11 @@ p {
   margin: 15px 0;
 }
 
+.image-gallery.m-p-g {
+  margin: 15px 0;
+  overflow: auto;
+}
+
 a {
   color: $blue;
   text-decoration: underline;
