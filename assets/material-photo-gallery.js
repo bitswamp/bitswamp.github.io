@@ -1203,7 +1203,7 @@ window.MaterialPhotoGallery = MaterialPhotoGallery
   Gallery.prototype._layout = function() {
     var gallery = this
     var imgLoad = imagesLoaded(
-      document.querySelector('div[data-google-image-layout]')
+      gallery._element
     )
 
     imgLoad.on('progress', function(instance, image) {
@@ -1213,6 +1213,7 @@ window.MaterialPhotoGallery = MaterialPhotoGallery
 
     imgLoad.on('done', function(instance) {
       var g = new GoogleImageLayout().init({
+        element: gallery._element,
         after: function() {
           gallery.init()
         }
@@ -1242,6 +1243,7 @@ window.MaterialPhotoGallery = MaterialPhotoGallery
 
     window.onresize = debounce(function() {
       var g = new GoogleImageLayout().init({
+        element: gallery._element,
         after: function() {
           setTimeout(function() {
             gallery._handleResize()
@@ -1804,7 +1806,7 @@ window.MaterialPhotoGallery = MaterialPhotoGallery
 
   GoogleImageLayout.init = function(opts) {
     opts = opts || {}
-    var nodes = document.querySelectorAll('div[data-google-image-layout]')
+    var nodes = (opts.element || document).querySelectorAll('div[data-google-image-layout]')
     var length = nodes.length
     var elem
 

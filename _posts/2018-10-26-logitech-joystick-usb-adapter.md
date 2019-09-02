@@ -21,7 +21,7 @@ gallery1:
 gallery2:
   folder: /assets/images/20181216
   thumbnails: false
-  height: 350
+  height: 375
   images:
     - image: 5_original_cable.jpg
       caption: "original cable removed"
@@ -31,7 +31,7 @@ gallery2:
 gallery3:
   folder: /assets/images/20181216
   thumbnails: false
-  height: 300
+  height: 400
   images:
     - image: 8_reassembly_1.jpg
       caption: "reassemble first half of the stick"
