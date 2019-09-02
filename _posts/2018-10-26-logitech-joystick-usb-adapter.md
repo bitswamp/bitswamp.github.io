@@ -1,6 +1,43 @@
 ---
 layout: post
 title: Replacing the USB adapter for a Logitech Wingman Extreme Digital 3D joystick
+
+gallery1:
+  folder: /assets/images/20181216
+  thumbnails: false
+  images:
+    - image: 1_screws.jpg
+      caption: "the four screw locations"
+    - image: 2_open_shell.jpg
+      caption: "separate the two halves"
+    - image: 3_rudder_1.jpg
+      caption: "central column"
+    - image: 4_rudder_2.jpg
+      caption: "rudder spring detail"
+    - image: 7_throttle.jpg
+      caption: "throttle ring"
+
+gallery2:
+  folder: /assets/images/20181216
+  thumbnails: false
+  images:
+    - image: 5_original_cable.jpg
+      caption: "original cable removed"
+    - image: 6_usb_connector.jpg
+      caption: "usb cable in original connector, 2 pins shorted"
+
+gallery3:
+  folder: /assets/images/20181216
+  thumbnails: false
+  images:
+    - image: 8_reassembly_1.jpg
+      caption: "reassemble first half of the stick"
+    - image: 9_reassembly_2.jpg
+      caption: "insert curved peg"
+    - image: 10_reassembly_3.jpg
+      caption: "reassemble the other half of the stick with trigger and buttons"
+    - image: 11_reassembled.jpg
+      caption: "better than new"
 ---
 
 After losing the original gameport-to-usb adapter for my Logitech joystick, I tried a 3rd party converter, found out that the joystick speaks USB natively, then replaced the joystick's cable with a direct wired USB cable. 
@@ -46,7 +83,9 @@ This video shows how the pieces come apart: [https://vimeo.com/90620762](https:/
 
 Flip the joystick over and remove the 5 or so screws from the base. Turn it back right side up.
 
-Disassemble the joystick starting with the 4 screws in the handle (2 are at the bottom behind the rubber sleeve). Undo the plastic latch on the bottom of the shelf for your hand and you should be able to gently separate the 2 halves of the joystick's handle. The trigger and 2 of the top buttons will come out. 
+Disassemble the joystick starting with the 4 screws in the handle (2 are at the bottom behind the rubber sleeve). Undo the plastic latch on the bottom of the shelf for your hand and you should be able to gently separate the 2 halves of the joystick's handle. The trigger and 2 of the top buttons will come out.
+
+{% include gallery.html id="joystickgallery1" gallery=page.gallery1 %}
 
 You do not need to disconnect or disassemble the bit containing the hat and the other thumb buttons.
 
@@ -57,6 +96,8 @@ Now you can lift and pry the base of the joystick apart and gain access to the g
 ### Replacing the cable
 
 I had a Logitech USB mouse in my box of electronics-to-be-recycled. I opened it and removed the USB cable. Conveniently, its cable colours matched the internal end of the existing gameport cable (black - shield, black - ground, red, white, green). I removed each wire of both cables from its white plastic connector/terminator. Then I inserted the five wires of the mouse cable into the 8-pin connector end from the joystick in the same order as the original cable by colour.
+
+{% include gallery.html id="joystickgallery2" gallery=page.gallery2 %}
 
 In order to "short pins 2 and 7" (from the perspective of the gameport end of the cable, shorting these pins is what tells it it's in usb mode), I found another cable with a similar connector -- attached to a small fan I didn't intend to use -- removed 2 wires from it, stripped and soldered the wire ends together, and inserted the other ends in positions 6 and 7 in the 8-pin connector. In other words, pins 2 and 7 on the gameport end correspond to pins 6 and 7 of the internal connector.
 
@@ -69,6 +110,8 @@ Reverse of disassembly. Reassemble the base, making sure the USB cable is in the
 Check that the throttle arm is hooked over the plastic pin (attached to the sensor) as it was originally. Make sure the throttle thumb pad is between the two plastic tabs on the ring that limit its motion to the correct range. Snap the retaining ring down over the throttle and rubber sleeve.
 
 There is a wire spring around the central shaft that should be rotated and pushed down until it goes over the plastic supports and is held firm. There is a removable, curved plastic peg which goes between the two parts of the handle near the bottom of the shaft. There is a cutout in the white shaft and the curve of the peg should fit into the cutout. If the spring and plastic peg aren't in the right place, the twist rudder won't feel right.
+
+{% include gallery.html id="joystickgallery3" gallery=page.gallery3 %}
 
 I did not disassemble the top piece with hat and buttons 4-5, so I just checked that the cable was still attached and pushed the assembly into one of the joystick handle halves. 
 
