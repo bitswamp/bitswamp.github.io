@@ -5,6 +5,7 @@ title: Venice day one photos
 gallery1:
   folder: /assets/images/20180406
   thumbnails: false
+  height: 400
   images:
     - image: 003.jpg
       caption: courtyard

@@ -5,6 +5,7 @@ title: Replacing the USB adapter for a Logitech Wingman Extreme Digital 3D joyst
 gallery1:
   folder: /assets/images/20181216
   thumbnails: false
+  height: 350
   images:
     - image: 1_screws.jpg
       caption: "the four screw locations"
@@ -20,6 +21,7 @@ gallery1:
 gallery2:
   folder: /assets/images/20181216
   thumbnails: false
+  height: 350
   images:
     - image: 5_original_cable.jpg
       caption: "original cable removed"
@@ -29,6 +31,7 @@ gallery2:
 gallery3:
   folder: /assets/images/20181216
   thumbnails: false
+  height: 300
   images:
     - image: 8_reassembly_1.jpg
       caption: "reassemble first half of the stick"
