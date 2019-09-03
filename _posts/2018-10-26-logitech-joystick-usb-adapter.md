@@ -5,7 +5,7 @@ title: Replacing the USB adapter for a Logitech Wingman Extreme Digital 3D joyst
 gallery1:
   folder: /assets/images/20181216
   thumbnails: false
-  height: 350
+  height: 325
   images:
     - image: 1_screws.jpg
       caption: "the four screw locations"
@@ -17,6 +17,8 @@ gallery1:
       caption: "rudder spring detail"
     - image: 7_throttle.jpg
       caption: "throttle ring"
+    - image: 12_throttle_underside.jpg
+      caption: "throttle linkage"
 
 gallery2:
   folder: /assets/images/20181216
