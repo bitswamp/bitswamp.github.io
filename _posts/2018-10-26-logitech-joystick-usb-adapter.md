@@ -2,10 +2,13 @@
 layout: post
 title: Replacing the USB adapter for a Logitech Wingman Extreme Digital 3D joystick
 
+image: assets/images/20181216/cover.jpg
+image_description: Logitech Wingman Extreme Digital 3D, original cable replaced by a usb cable
+
 gallery1:
   folder: /assets/images/20181216
   thumbnails: false
-  height: 325
+  height: 350
   images:
     - image: 1_screws.jpg
       caption: "the four screw locations"
