@@ -1,6 +1,8 @@
 ---
 layout: post
 title: LFKeyboards SMK-TKL with SMK Cherry MX-mount switches
+image: assets/images/20190810/smk-tkl-pcb.jpg
+image_description: SMK-TKL PCB from lfkeyboards.com with SMK switches ready to solder
 ---
 
 Reviving vintage SMK keyboard switches with a modern PCB and form factor (sketch notes for now). 
