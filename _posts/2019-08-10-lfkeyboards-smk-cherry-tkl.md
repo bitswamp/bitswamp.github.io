@@ -55,9 +55,9 @@ Mount the board in the case
 * With this done, the plate+pcb should fit in the case, flush in all four corners
 * Remove plate+pcb and connect your choice of JST-PH connector
 * As before, if you're using the usb-c board, good, if using the Cooler Master mini/micro usb board, you'll have to move the ground wire from pin 4 to pin 5.
-** If using the usb-c board, use the xacto knife to enlarge the original usb cutout in the bottom of the case.
-** The usb-c board is a drop-in match for the mini-usb board in my Quickfire Rapid. It didn't line up with the mount points for the micro-usb connector in my Masterkeys S PBT.
-** I used the original micro-usb connector -- fitting the usb-c board in its place may be a challenge and require more case modification. 
+  * If using the usb-c board, use the xacto knife to enlarge the original usb cutout in the bottom of the case.
+  * The usb-c board is a drop-in match for the mini-usb board in my Quickfire Rapid. It didn't line up with the mount points for the micro-usb connector in my Masterkeys S PBT.
+  * I used the original micro-usb connector -- fitting the usb-c board in its place may be a challenge and require more case modification. 
 * Reassemble and test
 * Screw down the plate in 2 spots between the F-row and alpha block (where there were screws originally)
 * Put the case top on, making sure the clips all engage (4 in back, 4 in front?)
@@ -71,7 +71,7 @@ Install stabilizers and keycaps
 * Set the stabilized keycaps loosely in place and use the small flat-head screwdriver to press the stab wires into the clips on the plate
 * Press down on the caps to secure them onto the switches
 * Check that the spacebar actuates smoothly. 
-** In my case, if I pushed it all the way down, it would stick
-** I think the keycap was interfering with the stabilizer wire, preventing it from returning to normal position
-** I fixed it by shaving down the inner edge of the front of the spacebar, directly in front of the switch (with xacto knife)
+  * In my case, if I pushed it all the way down, it would stick
+  * I think the keycap was interfering with the stabilizer wire, preventing it from returning to normal position
+  * I fixed it by shaving down the inner edge of the front of the spacebar, directly in front of the switch (with xacto knife)
 * Install the non-stabilized keycaps, and enjoy :) 
