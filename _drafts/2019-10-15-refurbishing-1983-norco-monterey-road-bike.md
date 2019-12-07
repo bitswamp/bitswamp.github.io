@@ -7,8 +7,9 @@ title: Refurbishing a 1983 Norco Monterey road bike
 
 - Helmet - $40
 - Bike lock - $38
+- Rear rack - $20
 
-Total - $78
+Total - $98
 
 ### Supplies purchased
 
@@ -18,8 +19,10 @@ Total - $78
 - Bristle brush - $4
 - Steel wool - $5
 - Metal polish - $7
+- Brake lever hoods $8
+- Grip tape $10
 
-Total - $100
+Total - $118
 
 ### Supplies already owned
 
@@ -39,7 +42,6 @@ Total - $100
 
 ### Still to buy
 
-- rear rack
 - lights
 - replacement cables
 
